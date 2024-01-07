@@ -1,0 +1,5 @@
+#!/usr/bin/php
+
+for($x=0;$<4;$x++){
+    echo $x;
+}
